@@ -85,7 +85,7 @@ Você pode usar o `curl` para testar os endpoints diretamente do seu terminal. C
     ```bash
     curl -X GET http://localhost:8080/api/destinations
     ```
-* **Pesquisar Destinos (ex: por "Florianópolis"):**
+* **Pesquisar Destinos (ex: por "Florian"):**
     ```bash
     curl -X GET "http://localhost:8080/api/destinations/search?query=Florian"
     ```
